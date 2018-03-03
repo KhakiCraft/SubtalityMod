@@ -1,0 +1,15 @@
+[
+{
+  "modid": "ksm",
+  "name": "Subtality",
+  "description": "My very own cutesy mod.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KhakiCraft"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

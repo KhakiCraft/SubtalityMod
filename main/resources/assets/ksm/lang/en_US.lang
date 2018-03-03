@@ -1,0 +1,10 @@
+item.morganite_helmet.name=Morganite Helmet
+item.morganite_chestplate.name=Morganite Chestplate
+item.morganite_leggings.name=Morganite Leggings
+item.morganite_boots.name=Morganite Slippers
+item.morganite.name=Morganite
+
+tile.morganite_ore.name=Morganite Ore
+tile.morganite_block.name=Morganite Block
+
+itemGroup.subtalityTab=Subtality
